@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
+    "name": "Subo Yuan",
+    "label": "Assistant Professor",
+    "image": "subo.jpg",
+    "email": "suyuan@utmb.edu",
+    "phone": "(409) 772-6548",
     "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "A physician turned Researcher with immense interest in Pain biology",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "Room 2.138C, Medical Research Building",
+      "postalCode": "TX 77555",
+      "city": "Galveston",
       "countryCode": "US",
-      "region": "California"
+      "region": "Texas"
     },
     "profiles": [
       {
